@@ -20276,13 +20276,85 @@
       "path": ""
     },
     {
-      "id": 2978,
+      "id": 2979,
       "name": "User update address api",
       "url": "/user/_updateAddress",
       "displayName": "User update address api",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "egov-user",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2980,
+      "name": "Supervisor Create",
+      "url": "/vendor/supervisor/v1/_create",
+      "displayName": "Create Supervisor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2981,
+      "name": "Supervisor Update",
+      "url": "/vendor/supervisor/v1/_update",
+      "displayName": "Update Supervisor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2982,
+      "name": "Supervisor Search",
+      "url": "/vendor/supervisor/v1/_search",
+      "displayName": "Search Supervisor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2983,
+      "name": "Surveyor Create",
+      "url": "/vendor/surveyor/v1/_create",
+      "displayName": "Create Surveyor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2984,
+      "name": "Surveyor Update",
+      "url": "/vendor/surveyor/v1/_update",
+      "displayName": "Update Surveyor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2985,
+      "name": "Surveyor Search",
+      "url": "/vendor/surveyor/v1/_search",
+      "displayName": "Search Surveyor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
       "code": "null",
       "path": ""
     }

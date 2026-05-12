@@ -1,0 +1,13 @@
+{
+  "tenantId": "dl",
+  "moduleName": "Vendor",
+  "ModuleSupervisorRoleMapping": [
+    {
+      "moduleName": "ekyc",
+      "roleName": "eKYC Supervisor",
+      "roleCode": "EKYC_SUPERVISOR",
+      "active": true
+    }
+  ]
+}
+

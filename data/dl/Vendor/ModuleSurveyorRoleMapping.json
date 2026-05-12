@@ -1,0 +1,12 @@
+{
+  "tenantId": "dl",
+  "moduleName": "Vendor",
+  "ModuleSurveyorRoleMapping": [
+    {
+      "moduleName": "ekyc",
+      "roleName": "eKYC Surveyor",
+      "roleCode": "EKYC_SURVEYOR",
+      "active": true
+    }
+  ]
+}

@@ -383,8 +383,8 @@
       "description": "role for EE"
     },
     {
-      "code": "EKYC-VENDOR",
-      "name": "EKYC-VENDOR",
+      "code": "EKYC_VENDOR",
+      "name": "eKYC Vendor",
       "description": "role for Ekyc-vendor"
     }
   ]

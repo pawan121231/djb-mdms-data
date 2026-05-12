@@ -31,6 +31,12 @@
         "roleName": "CND Vendor",
         "roleCode": "CND_VENDOR",
         "active": true
+      },
+      {
+        "moduleName": "eKYC",
+        "roleName": "eKYC Vendor",
+        "roleCode": "EKYC_VENDOR",
+        "active": true
       }
     ]
 }
