@@ -386,6 +386,11 @@
       "code": "EKYC_VENDOR",
       "name": "eKYC Vendor",
       "description": "role for Ekyc-vendor"
+    },
+    {
+      "code": "EKYC_ZRO",
+      "name": "eKYC ZRO",
+      "description": "Zonal Review Officer - approves/rejects eKYC"
     }
   ]
 }

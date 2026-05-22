@@ -32809,6 +32809,246 @@
       "actionid": 2987,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2940,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2942,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2943,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2944,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2945,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2971,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2989,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2942,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2946,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2982,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2986,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2988,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2989,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2942,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2946,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2982,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2989,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2940,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2942,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2946,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2976,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2989,
+      "actioncode": "",
+      "tenantId": "dl"
     }
 
   ]

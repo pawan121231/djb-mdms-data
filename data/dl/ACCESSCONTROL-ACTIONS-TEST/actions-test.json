@@ -20381,6 +20381,42 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2986,
+      "name": "Assignment Assign",
+      "url": "/ekyc-service/assignment/_assign",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2987,
+      "name": "Assignment Search",
+      "url": "/ekyc-service/assignment/_search",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2988,
+      "name": "Assignment Reassign",
+      "url": "/ekyc-service/assignment/_reassign",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2989,
+      "name": "Assignment Progress",
+      "url": "/ekyc-service/assignment/_progress",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
