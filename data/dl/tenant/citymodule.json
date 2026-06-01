@@ -300,10 +300,10 @@
       "code": "PGR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-           "code": "dl.djb"
+          "code": "dl.djb"
         }
       ]
     },
@@ -311,7 +311,7 @@
       "module": "Engagement",
       "code": "ENGAGEMENT",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "dl.djb"
@@ -321,8 +321,19 @@
     {
       "module": "RWH",
       "code": "RWH",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "dl.djb"
