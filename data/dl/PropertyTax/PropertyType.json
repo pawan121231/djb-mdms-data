@@ -1,7 +1,7 @@
 {
   "tenantId": "dl",
   "moduleName": "PropertyTax",
-  "NewPropertyType": [
+  "PropertyType": [
     {
       "name": "Apartment",
       "code": "Apartment",
