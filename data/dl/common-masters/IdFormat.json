@@ -459,7 +459,7 @@
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PG-PT-[CITY.CODE]-[SEQ_EG_PT_PTID]",
+            "format": "PG-PT-DJB-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
         {
@@ -511,7 +511,7 @@
             "idname": "pt.mutation.number"
         },
         {
-            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
+            "format": "WS/DJB/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
             "idname": "waterservice.connection.id"
         },
         {
@@ -519,7 +519,7 @@
             "idname": "sewerageservice.connection.id"
         },
         {
-            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
+            "format": "WS/DJB/[fy:yyyy-yy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
             "idname": "ws.receipt.id"
         },
         {
@@ -527,7 +527,7 @@
             "idname": "sw.receipt.id"
         },
         {
-            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
+            "format": "WS_AP/DJB/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
             "idname": "waterservice.application.id"
         },
         {
@@ -711,7 +711,7 @@
             "idname": "death_cert.receipt.id"
         },
         {
-            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/DC-[SEQ_WS_APP_[TENANT_ID]]",
+            "format": "WS_AP/DJB/[fy:yyyy-yy]/DC-[SEQ_WS_APP_[TENANT_ID]]",
             "idname": "waterservice.disconnection.id"
         },
         {
