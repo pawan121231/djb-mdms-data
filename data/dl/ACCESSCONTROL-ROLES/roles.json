@@ -391,6 +391,11 @@
       "code": "EKYC_ZRO",
       "name": "eKYC ZRO",
       "description": "Zonal Review Officer - approves/rejects eKYC"
+    },
+    {
+      "code": "NATADMIN",
+      "name": "National Dashboard Admin",
+      "description": "Admin role that as access over a Nation"
     }
   ]
 }
