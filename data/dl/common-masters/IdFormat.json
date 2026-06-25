@@ -773,6 +773,11 @@
 		{
             "format": "FLP-[SEQ_FLP_COMMON]",
             "idname": "djb.flp.id"
-        }
+        },
+		{
+		  "idname": "request-service.water_tanker.receipt.id",
+		  "format": "WT/RECEIPT/[cy:yyyy-MM-dd]-[SEQ_WATER_TANKER]",
+		  "tenantId": "dl.djb"
+		}
     ]
 }
