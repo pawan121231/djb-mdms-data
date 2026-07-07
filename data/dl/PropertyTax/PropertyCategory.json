@@ -30,7 +30,7 @@
       "name": "Mixed",
       "code": "MIXED",
       "type": "NON_DOMESTIC",
-      "active": true
+      "active": false
     }
   ]
 }

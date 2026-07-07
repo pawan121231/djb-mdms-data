@@ -5,362 +5,505 @@
     {
       "name": "B.S.E.S. RAJDHANI",
       "code": "BSES_RAJDHANI",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "B.S.E.S. YAMUNA",
       "code": "BSES_YAMUNA",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Banquet hall/ Party hall",
       "code": "BANQUET_HALL_PARTY_HALL",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Beauty Parlors",
       "code": "BEAUTY_PARLORS",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Blind Schools",
       "code": "BLIND_SCHOOLS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Bottling Plant",
       "code": "BOTTLING_PLANT",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "C.P.W.D.",
       "code": "CPWD",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Central Govt. Offices",
       "code": "CENTRAL_GOVT_OFFICES",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Cineplex",
       "code": "CINEPLEX",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Clinic/Pathlab",
       "code": "CLINIC_PATHLAB",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Co-operative Group Housing Society",
       "code": "COOP_GROUP_HOUSING",
-      "active": true
+      "active": true,
+      "type": "RESIDENTIAL"
     },
     {
       "name": "Cold Storage",
       "code": "COLD_STORAGE",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Colour Dye shop/factory",
       "code": "COLOUR_DYE_SHOP_FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Cooling Plant",
       "code": "COOLING_PLANT",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Courts",
       "code": "COURTS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "D.S.I.I.D.C",
       "code": "DSIIDC",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Development Authority",
       "code": "DDA",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Fire Service (Fire Station)",
       "code": "DELHI_FIRE_SERVICE",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Govt. Office",
       "code": "DELHI_GOVT_OFFICE",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Jal Board",
       "code": "DELHI_JAL_BOARD",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Metro Rail Corporation",
       "code": "DMRC",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Transco",
       "code": "DELHI_TRANSCO",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Delhi Transport Corporation",
       "code": "DTC",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Dhaba",
       "code": "DHABA",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Dhobi Ghats",
       "code": "DHOBI_GHATS",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Dry Cleaners",
       "code": "DRY_CLEANERS",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "EDMC Schools",
       "code": "EDMC_SCHOOLS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "East MCD",
       "code": "EAST_MCD",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Factory",
       "code": "FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Fruit & Vegetables Store - Reliance Safal",
       "code": "FRUIT_VEG_STORE",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Govt. Hospitals/ Dispensary",
       "code": "GOVT_HOSPITALS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Govt. Institute/Colleges/ Universities",
       "code": "GOVT_INSTITUTE",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Govt. Offices/PSU/Bank",
       "code": "GOVT_OFFICES_PSU_BANK",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Govt. Schools (GNCTD)",
       "code": "GOVT_SCHOOLS_GNCTD",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Govt. Schools (GOI)",
       "code": "GOVT_SCHOOLS_GOI",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Haircutting Saloon",
       "code": "HAIRCUTTING_SALOON",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Hotel/Guest houses",
       "code": "HOTEL_GUEST_HOUSES",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Ice-Cream Factory/Ice Factory",
       "code": "ICE_FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Janta Flats",
       "code": "JANTA_FLATS",
-      "active": true
+      "active": true,
+      "type": "RESIDENTIAL"
     },
     {
       "name": "Jewellery Manufacturing Factory/Repairing",
       "code": "JEWELLERY_FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Juice Shop",
       "code": "JUICE_SHOP",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Lab/X-Ray Units",
       "code": "LAB_XRAY",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "M.C.D. Slums & J.J. Department/DUSIB",
       "code": "MCD_SLUMS",
-      "active": true
+      "active": true,
+      "type": "RESIDENTIAL"
     },
     {
       "name": "M.T.N.L",
       "code": "MTNL",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Malls",
       "code": "MALLS",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Milk Dairy",
       "code": "MILK_DAIRY",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Moulding Machine Factory",
       "code": "MOULDING_FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Mutton Shop",
       "code": "MUTTON_SHOP",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "NDMC Schools",
       "code": "NDMC_SCHOOLS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Nickle Polish Works",
       "code": "NICKLE_POLISH",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "North Delhi Power Ltd. (TDDPL)",
       "code": "TDDPL",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "North MCD",
       "code": "NORTH_MCD",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Others",
       "code": "OTHERS",
-      "active": true
+      "active": false
     },
     {
       "name": "Piaos",
       "code": "PIAOS",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Police Department",
       "code": "POLICE_DEPARTMENT",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Professional Office (CA, Lawyer, Property)",
       "code": "PROFESSIONAL_OFFICE",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Pvt. Hospitals & Nursing Homes",
       "code": "PVT_HOSPITALS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Pvt. Institute/Colleges/ Universities",
       "code": "PVT_INSTITUTE",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Pvt. Schools",
       "code": "PVT_SCHOOLS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Railways",
       "code": "RAILWAYS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Religious Place",
       "code": "RELIGIOUS_PLACE",
-      "active": true
+      "active": true,
+      "type": "RESIDENTIAL"
     },
     {
       "name": "Residential",
       "code": "RESIDENTIAL",
-      "active": true
+      "active": true,
+      "type": "RESIDENTIAL"
     },
     {
       "name": "Restaurant",
       "code": "RESTAURANT",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "SDMC Schools",
       "code": "SDMC_SCHOOLS",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Shops",
       "code": "SHOPS",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Soda Water Factory",
       "code": "SODA_FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "Soft Drink Factory",
       "code": "SOFT_DRINK_FACTORY",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
     },
     {
       "name": "South MCD",
       "code": "SOUTH_MCD",
-      "active": true
+      "active": true,
+      "type": "INSTITUTIONAL"
     },
     {
       "name": "Sweet Shop",
       "code": "SWEET_SHOP",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Tea Stall",
       "code": "TEA_STALL",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Vehicle/Automobile Service Station",
       "code": "AUTO_SERVICE",
-      "active": true
+      "active": true,
+      "type": "COMMERCIAL"
     },
     {
       "name": "Warehouse/Godown",
       "code": "WAREHOUSE",
-      "active": true
+      "active": true,
+      "type": "INDUSTRIAL"
+    },
+    {
+      "name": "DDA Shop",
+      "code": "DDA_SHOP",
+      "active": true,
+      "type": "COMMERCIAL"
+    },
+    {
+      "name": "Combined Shops (Milk and Fruit/Vegetable)",
+      "code": "COMBINED_SHOPS_MILK_FRUIT_VEG",
+      "active": true,
+      "type": "COMMERCIAL"
+    },
+    {
+      "name": "Milk Booths",
+      "code": "MILK_BOOTHS",
+      "active": true,
+      "type": "COMMERCIAL"
+    },
+    {
+      "name": "Safal Booths",
+      "code": "SAFAL_BOOTHS",
+      "active": true,
+      "type": "COMMERCIAL"
+    },
+    {
+      "name": "Public Toilet",
+      "code": "PUBLIC_TOILET",
+      "active": true,
+      "type": "COMMERCIAL"
+    },
+    {
+      "name": "MIG Flats",
+      "code": "MIG_FLATS",
+      "active": true,
+      "type": "RESIDENTIAL"
+    },
+    {
+      "name": "LIG Flats",
+      "code": "LIG_FLATS",
+      "active": true,
+      "type": "RESIDENTIAL"
+    },
+    {
+      "name": "HIG Flats",
+      "code": "HIG_FLATS",
+      "active": true,
+      "type": "RESIDENTIAL"
+    },
+    {
+      "name": "Bungalows",
+      "code": "BUNGALOWS",
+      "active": true,
+      "type": "RESIDENTIAL"
+    },
+    {
+      "name": "Dharamshalas or Hostels",
+      "code": "DHARAMSHALAS_HOSTELS",
+      "active": true,
+      "type": "RESIDENTIAL"
+    },
+    {
+      "name": "Central Govt. Flats",
+      "code": "CENTRAL_GOVT_FLATS",
+      "active": true,
+      "type": "RESIDENTIAL"
+    },
+    {
+      "name": "State Govt. Flats",
+      "code": "STATE_GOVT_FLATS",
+      "active": true,
+      "type": "RESIDENTIAL"
     }
   ]
 }

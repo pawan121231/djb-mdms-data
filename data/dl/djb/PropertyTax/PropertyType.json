@@ -5,54 +5,12 @@
     {
       "name": "Apartment",
       "code": "Apartment",
-      "active": true
+      "active": false
     },
     {
       "name": "Banquet Hall",
       "code": "BanquetHall",
-      "active": true
-    },
-    {
-      "name": "Bungalows",
-      "code": "Bungalows",
-      "active": true
-    },
-    {
-      "name": "DDA flats",
-      "code": "DDAFlats",
-      "active": true
-    },
-    {
-      "name": "Dharamshalas or Hostels",
-      "code": "DharamshalasOrHostels",
-      "active": true
-    },
-    {
-      "name": "Govt. Flats",
-      "code": "GovtFlats",
-      "active": true
-    },
-    {
-      "name": "Hotel or Guest Houses",
-      "code": "HotelOrGuestHouses",
-      "active": true
-    },
-    {
-      "name": "Factory",
-      "code": "Factory",
-      "type": "INDUSTRIAL",
-      "active": true
-    },
-    {
-      "name": "Manufacturing Unit",
-      "code": "ManufacturingUnit",
-      "type": "INDUSTRIAL",
-      "active": true
-    },
-    {
-      "name": "Warehouse",
-      "code": "Warehouse",
-      "type": "INDUSTRIAL",
+      "type": "COMMERCIAL",
       "active": true
     },
     {
@@ -77,7 +35,7 @@
       "name": "Complex",
       "code": "Complex",
       "type": "COMMERCIAL",
-      "active": true
+      "active": false
     },
     {
       "name": "Hotel/Restaurant",
@@ -86,37 +44,39 @@
       "active": true
     },
     {
-      "name": "Individual House",
-      "code": "IndividualHouse",
-      "type": "RESIDENTIAL",
+      "name": "Public Toilet",
+      "code": "PublicToilet",
+      "type": "COMMERCIAL",
       "active": true
     },
     {
-      "name": "Flat/Apartment",
-      "code": "FlatOrApartment",
-      "type": "RESIDENTIAL",
+      "name": "Mother Dairy Booth",
+      "code": "MotherDairyBooth",
+      "type": "COMMERCIAL",
       "active": true
     },
     {
-      "name": "Builder Floors",
-      "code": "BuilderFloors",
-      "type": "RESIDENTIAL",
+      "name": "DDA commercial complex",
+      "code": "DDACommercialComplex",
+      "type": "COMMERCIAL",
       "active": true
     },
     {
-      "name": "Group Housing Society",
-      "code": "GroupHousingSociety",
-      "type": "RESIDENTIAL",
+      "name": "Factory",
+      "code": "Factory",
+      "type": "INDUSTRIAL",
       "active": true
     },
     {
-      "name": "Mall or Cineplex",
-      "code": "MallOrCineplex",
-      "active": true
+      "name": "Manufacturing Unit",
+      "code": "ManufacturingUnit",
+      "type": "INDUSTRIAL",
+      "active": false
     },
     {
-      "name": "Office complex",
-      "code": "OfficeComplex",
+      "name": "Warehouse",
+      "code": "Warehouse",
+      "type": "INDUSTRIAL",
       "active": true
     },
     {
@@ -142,6 +102,81 @@
       "code": "GovernmentBuildings",
       "type": "INSTITUTIONAL",
       "active": true
+    },
+    {
+      "name": "DDA flats",
+      "code": "DDAFlats",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Dharamshalas or Hostels",
+      "code": "DharamshalasOrHostels",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Govt. Flats",
+      "code": "GovtFlats",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Hotel or Guest Houses",
+      "code": "HotelOrGuestHouses",
+      "active": false
+    },
+    {
+      "name": "Bungalows",
+      "code": "Bungalows",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Individual House",
+      "code": "IndividualHouse",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Flat/Apartment",
+      "code": "FlatOrApartment",
+      "type": "RESIDENTIAL",
+      "active": false
+    },
+    {
+      "name": "Builder Floors",
+      "code": "BuilderFloors",
+      "type": "RESIDENTIAL",
+      "active": false
+    },
+    {
+      "name": "Group Housing Society",
+      "code": "GroupHousingSociety",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Religious places",
+      "code": "ReligiousPlaces",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "JJ SLUMS",
+      "code": "JJSLUMS",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Mall or Cineplex",
+      "code": "MallOrCineplex",
+      "active": false
+    },
+    {
+      "name": "Office complex",
+      "code": "OfficeComplex",
+      "active": false
     }
   ]
 }
