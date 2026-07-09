@@ -20671,6 +20671,42 @@
       "serviceCode": "mdms-v2",
       "tenantId": "dl",
       "path": ""
+    },
+    {
+      "id": 3014,
+      "name": "Transaction redirect",
+      "url": "/pg-service/transaction/v1/_redirect",
+      "displayName": "Transaction redirect",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pg-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3015,
+      "name": "Transaction mock Payment",
+      "url": "/pg-service/transaction/v1/npci/mock-payment",
+      "displayName": "Transaction mock Payment",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pg-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3016,
+      "name": "Create Transaction npci mock payment",
+      "url": "/pg-service/transaction/v1/npci/mock-payment/submit",
+      "displayName": "Create Transaction npci mock payment",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pg-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
