@@ -33607,6 +33607,168 @@
       "actionid": 3013,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3016,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
