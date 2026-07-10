@@ -20707,6 +20707,18 @@
       "serviceCode": "pg-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3017,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/common-masters.WorkbenchWorkflowOperation",
+      "displayName": "Create common-masters.WorkbenchWorkflowOperation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
