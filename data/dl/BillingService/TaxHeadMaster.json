@@ -5874,7 +5874,7 @@
     },
     {
       "category": "FEE",
-      "service": "request-service.water_tanker",
+      "service": "watertanker",
       "name": "Water Tanker Fee",
       "code": "WT_BOOKING_FEE",
       "isDebit": false,
@@ -5884,7 +5884,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "request-service.water_tanker",
+      "service": "watertanker",
       "name": "Immediate Delivery Fee",
       "code": "IMMEDIATE_DELIVERY_FEE",
       "isDebit": false,

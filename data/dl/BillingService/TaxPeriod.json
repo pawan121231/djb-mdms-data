@@ -1719,7 +1719,7 @@
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
-      "service": "request-service.water_tanker",
+      "service": "watertanker",
       "code": "REQ10YRS2024",
       "financialYear": "2024-34"
     }
