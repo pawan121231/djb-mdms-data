@@ -33787,6 +33787,24 @@
       "actionid": 3017,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3018,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3018,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3018,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

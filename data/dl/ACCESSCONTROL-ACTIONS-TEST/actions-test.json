@@ -20720,6 +20720,20 @@
       "code": "null",
       "tenantId": "dl",
       "path": ""
+    },
+    {
+      "id": 3018,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ACTIONS.actions",
+      "displayName": "Create ACCESSCONTROL-ACTIONS.actions",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "code": "null",
+      "tenantId": "dl",
+      "path": ""
     }
+   
   ]
 }
