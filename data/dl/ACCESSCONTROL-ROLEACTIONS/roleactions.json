@@ -32289,6 +32289,12 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2972,
       "actioncode": "",
